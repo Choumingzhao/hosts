@@ -6,4 +6,4 @@ Some website I'd like to block
 2. [AD hosts](https://github.com/vokins/yhosts)
 
 ## How to quickly generate my hosts
-After clone Steven Black's repo, you can add AD hosts and your own personal entries to the file `blacklist` and just run the commands in the README.
+After clone Steven Black's repo, you can add AD hosts and your own personal entries to the file `blacklist` and just follow the commands in the README.

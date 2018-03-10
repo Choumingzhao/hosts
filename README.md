@@ -11,7 +11,7 @@ After clone StevenBlack's repo, you can add AD hosts and your own personal entri
 ## What does [urls2hosts.py](urls2hosts.py) do?
 It's a very small script for you to convert your url blacklist to a hosts. Just run:
 ```
-$ python urls2hosts.py
+$ python urls2hosts.py url_blacklist
 ```
 
 And copy and paste.

@@ -7,3 +7,11 @@ Some blacklist websites I need to block, everything in the file [blacklist](blac
 
 ## How to quickly generate my hosts
 After clone StevenBlack's repo, you can add AD hosts and your own personal entries to the file [blacklist](blacklist), replace the `blacklist` file in StevenBlack's repo  with this file and just follow the commands in the README.
+
+## What does [urls2hosts.py](urls2hosts.py) do?
+It's a very small script for you to convert your url blacklist to a hosts. Just run:
+```
+$ python urls2hosts.py
+```
+
+And copy and paste.

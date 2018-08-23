@@ -4,6 +4,7 @@ Some blacklist websites I need to block -> [blacklist](blacklist)
 ## This repo is just a list, you should use these repos
 1. [StevenBlack's hosts](https://github.com/StevenBlack/hosts)
 2. [AD hosts by vokins](https://github.com/vokins/yhosts)
+3. [hosts by neoFelhz](https://github.com/neofelhz/neohosts)
 
 ## How to quickly generate your hosts
 1. Clone StevenBlack's repo
@@ -29,6 +30,7 @@ $ python urls2hosts.py url_blacklist >> blacklist
 ## 本 repo 只是一个列表，使用以下项目让你更加方便
 1. [StevenBlack's hosts](https://github.com/StevenBlack/hosts)
 2. [AD hosts by vokins](https://github.com/vokins/yhosts)
+3. [hosts by neoFelhz](https://github.com/neofelhz/neohosts)
 
 ## 如何快速生成我的 hosts 文件
 1. Clone StevenBlack 的 repo
